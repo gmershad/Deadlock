@@ -11,8 +11,7 @@ namespace ThreadCodes
         static void Main(string[] args)
         {
             //DeadLock.ExecuteDeadLockCode();
-            //DeadLock.ExecuteDeadlockAvoidance();
-            DeadLock1.SimplestDeadlocking();
+            DeadLock.ExecuteDeadlockAvoidance();
             Console.ReadKey();
         }
     }
