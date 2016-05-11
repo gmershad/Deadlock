@@ -1,0 +1,6 @@
+F:\Tutorials\Threads\ThreadCodes\ThreadCodes\bin\Debug\ThreadCodes.exe.config
+F:\Tutorials\Threads\ThreadCodes\ThreadCodes\bin\Debug\ThreadCodes.exe
+F:\Tutorials\Threads\ThreadCodes\ThreadCodes\bin\Debug\ThreadCodes.pdb
+F:\Tutorials\Threads\ThreadCodes\ThreadCodes\obj\Debug\ThreadCodes.csprojResolveAssemblyReference.cache
+F:\Tutorials\Threads\ThreadCodes\ThreadCodes\obj\Debug\ThreadCodes.exe
+F:\Tutorials\Threads\ThreadCodes\ThreadCodes\obj\Debug\ThreadCodes.pdb
